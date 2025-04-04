@@ -1,7 +1,3 @@
-Claro! Aqui vai uma sugestão de descrição para o seu projeto de refinamento de banco de dados sobre e-commerce no GitHub. Ela é direta, clara e passa uma ideia profissional:
-
----
-
 ## 💻 Projeto de Refinamento de Banco de Dados - E-commerce
 
 Este repositório contém a solução para um **desafio proposto pela DIO (Digital Innovation One)**, focado no **refinamento de um banco de dados relacional voltado para um cenário de e-commerce**.
