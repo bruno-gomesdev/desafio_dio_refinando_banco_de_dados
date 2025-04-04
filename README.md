@@ -25,7 +25,3 @@ O principal objetivo do desafio foi **analisar, modelar e refinar** uma estrutur
 
 ### 📎 Desafio original
 Este desafio faz parte da formação oferecida pela [DIO](https://www.dio.me/), com foco em bancos de dados e modelagem.
-
----
-
-Se quiser, posso adaptar para um tom mais descontraído, técnico ou acadêmico. Quer que ajuste algo?
