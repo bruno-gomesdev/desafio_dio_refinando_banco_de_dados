@@ -21,7 +21,6 @@ O principal objetivo do desafio foi **analisar, modelar e refinar** uma estrutur
 - Proposta de um modelo refinado (MER e DER)
 - Criação de scripts de criação de tabelas (DDL)
 - Inserção de dados fictícios (DML)
-- Consultas SQL de exemplo para validação
 
 ### 📎 Desafio original
 Este desafio faz parte da formação oferecida pela [DIO](https://www.dio.me/), com foco em bancos de dados e modelagem.
